@@ -84,7 +84,7 @@ This allows deploying your static website to:
 * BunnyCDN (and other CDN providers)
 * SFTP to your server
 
-Learn more about that [here](https://patrickposner.dev/docs/simply-static/setting-up-the-github-integration)
+Learn more about that [here](https://patrickposner.dev/docs/simply-static/github)
 
 = Builds and Single Exports =
 
@@ -94,7 +94,7 @@ Never sit back and watch a full static export running, instead run a complete ex
 
 You can also export single pages/posts after changed something.
 
-Learn more about that [here](https://patrickposner.dev/docs/simply-static/how-to-update-content-on-your-static-website)
+Learn more about that [here](https://patrickposner.dev/docs/simply-static/builds)
 
 = Forms =
 
@@ -102,7 +102,7 @@ Simply Static Pro supports Contact Form 7 and Gravity Forms to use on your stati
 
 You can decide if you want to use an external service like Zapier and IFTTT or if your original WordPress website should handle the submission and send you an e-mail with all the details.
 
-Learn more about that [here](https://patrickposner.dev/docs/simply-static/set-up-forms)
+Learn more about that [here](https://patrickposner.dev/docs/simply-static/forms)
 
 = Search =
 
@@ -110,7 +110,7 @@ Use a fully static search solution that does not rely on any Third-Party-Provide
 
 The search supports autosuggestion and fuzzy logic and is by default way more convenient than your default WordPress search.
 
-Learn more about that [here](https://patrickposner.dev/docs/simply-static/set-up-search)
+Learn more about that [here](https://patrickposner.dev/docs/simply-static/search)
 
 = Comments =
 
@@ -118,7 +118,7 @@ Enable comments on your static website without the requirement of Third-Party-Pr
 
 After a comment was submitted, Simply Static automatically exports a new static version of the post. You don't have to do anything.
 
-Learn more about that [here](https://patrickposner.dev/docs/simply-static/set-up-comments)
+Learn more about that [here](https://patrickposner.dev/docs/simply-static/search)
 
 = Multilingual =
 
@@ -137,7 +137,7 @@ You can get the pro version [here](https://patrickposner.dev/plugins/simply-stat
 
 I publish new tutorials on how to work with Simply Static and other tools on my blog.
 
-You can check the current tutorials [here](https://patrickposner.dev/tutorials/tag/simply-static/)
+You can check the current tutorials [here](https://patrickposner.dev/tag/simply-static/)
 
 
 == Installation ==

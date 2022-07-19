@@ -1,22 +1,22 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => 'dev-develop',
-        'version' => 'dev-develop',
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => 'c7659f498247c597fc97311ae340446eadcc023e',
+        'reference' => '06b6ad64684bf424d7a6a67f889497335360feb9',
         'name' => 'awesomemotive/wpforms',
         'dev' => true,
     ),
     'versions' => array(
         'awesomemotive/wpforms' => array(
-            'pretty_version' => 'dev-develop',
-            'version' => 'dev-develop',
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => 'c7659f498247c597fc97311ae340446eadcc023e',
+            'reference' => '06b6ad64684bf424d7a6a67f889497335360feb9',
             'dev_requirement' => false,
         ),
         'mk-j/php_xlsxwriter' => array(
